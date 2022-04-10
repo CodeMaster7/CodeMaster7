@@ -48,16 +48,6 @@ const vedant = {
 ```
 <br>
 
-----
-<br>
-
-## Now Playing
-
-
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae)
-
-----
-<br>
 
 ## My Skill Set
 <table><tr><td valign="top" width="33%">
