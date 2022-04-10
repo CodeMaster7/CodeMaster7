@@ -98,7 +98,7 @@ const vedant = {
 ## Github Stats
 <br>
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMaster7)]
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMaster7)
 
 <br>
 
@@ -106,7 +106,7 @@ const vedant = {
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster7)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster7)
 
 <br>
 <br>
