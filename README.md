@@ -17,11 +17,10 @@
 
 ## I'm a Bootcamp Graduate & Self taught Developer!!
 
-- 🌱 I’m currently learning Blockchain
-- 👯 I’m looking to contribute to open source
+- 🌱 I’m currently learning ***React, javascript***
 - 🥅 2022 Goals:
             - Contribute more to Open Source projects
-            - learn as much as I can about React.js and Javascript
+            - learn as much as I can about ***React, javascript***
 - ⚡ Fun fact: I love to play games - Go fishing - Snowboarding - Travel
 <br>
 ----
