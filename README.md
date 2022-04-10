@@ -94,40 +94,6 @@ const vedant = {
 
 <br>
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How Secure is Blockchain!](https://dev.to/envoy_/how-secure-is-blockchain-4lhm)
-- [Blockchain Key Terms](https://dev.to/envoy_/blockchain-key-terms-m57)
-- [What’s The Blockchain?](https://dev.to/envoy_/whats-the-blockchain-4kik)
-- [Blockchain App Developer Roadmap ✨✨✨](https://dev.to/envoy_/blockchain-app-developer-roadmap-31p5)
-- [Jina - Cloud-Native Neural Search Framework for Any Kind of Data](https://dev.to/envoy_/jina-cloud-native-neural-search-framework-for-any-kind-of-data-56hh)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-<br>
-
-----
-
-<br>
-
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br>
-<br>
-
-----
-
-<br>
 
 ## Github Stats
 <br>
