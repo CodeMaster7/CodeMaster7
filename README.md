@@ -1,8 +1,8 @@
 <!-- ![Banner](https://user-images.githubusercontent.com/87603425/141933741-7c8d48f4-3099-4f2e-bc52-10b49f3f42a3.png) -->
 <div align="center">
   
-  [![Linkedin](https://img.shields.io/static/v1?label=%20&message=ShivanshYadav&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/sambonfanti/)
-  ![Gmail](https://img.shields.io/badge/-yadavshivansh@gmail.com-c14438?style=social&logo=Gmail&link=mailto:sammybonfanti@gmail.com)
+  [![Linkedin](https://img.shields.io/static/v1?label=%20&message=samBonfanti&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/sambonfanti/)
+  ![Gmail](https://img.shields.io/badge/-sammybonfanti@gmail.com-c14438?style=social&logo=Gmail&link=mailto:sammybonfanti@gmail.com)
   
   🙋‍♂️ I am Sam Bonfanti, a web developer. Currently in self teaching mode, who is interested in web development front and backend including MERN and PERN stack. I like to build small applications, Build beautiful websites, Setup different tools. I have always been fascinated by computers and programming. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also, I like working in a team, you'll learn faster and more. As the saying goes: 'two heads are better than one'..<br>
   
