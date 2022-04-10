@@ -31,17 +31,17 @@
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    code: ["Javascript","React/Redux","HTML5", "CSS3", "Boostrap"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["Node", "express", "mongoose"],
         },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
+        design: ["Adobe XD"]
+        databases: ["mongo", "Postgresql", "Firebase"]
+        deployment: ["Heroku", "Digital Ocean", "Github-pages"]
     },
-    currentFocus: "Python",
+    currentFocus: ["React"],
+    askMeAbout: ["WebDev", "Tech", "Gaming"],
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
           The second byte replies, 'No, just feeling a bit off.'"
 };
