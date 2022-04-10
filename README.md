@@ -1,32 +1,28 @@
-![Visitor Count](https://profile-counter.glitch.me/Envoy-VC/count.svg)
-
 # Hi there, I'm Sam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Creating+Beautiful+Websites">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Developer!;Creating+Beautiful+Websites;Passionate+Learner">
 </p>
 
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
-<a href="https://twitter.com/Envoy_1084"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vedant-chainani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/envoyVC1084"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:vedantchainani1084@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-<a href="https://steamcommunity.com/profiles/76561199077181432/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31ojwb23shspr6yxfudndihfrvae"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sambonfanti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sammybonfanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- <a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
 
 <br><br>
 ----
 
-## I'm a Student!!
+## I'm a Bootcamp Graduate & Self taught Developer!!
 
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
-- ⚡ Fun fact: I love to play games
+- 🥅 2022 Goals:
+            - Contribute more to Open Source projects
+            - learn as much as I can about React.js and Javascript
+- ⚡ Fun fact: I love to play games - Go fishing - Snowboarding - Travel
 <br>
 ----
 <br>
