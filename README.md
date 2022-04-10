@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/static/v1?label=%20&message=samBonfanti&color=blue&style=social&logo=linkedin)](https://www.linkedin.com/in/sambonfanti/)
 ![Gmail](https://img.shields.io/badge/-sammybonfanti@gmail.com-c14438?style=social&logo=Gmail&link=mailto:sammybonfanti@gmail.com)
 
-🙋‍♂️ I am Sam Bonfanti, a web developer. Currently in self teaching mode, who is interested in web development front and backend including MERN and PERN stack. I like to build small applications, Build beautiful websites, Setup different tools. <br>
+🙋‍♂️ I am Sam Bonfanti, a web developer. Currently in self teaching mode, who is interested in web development front and backend including MERN and PERN stack. I like to build small applications, Build beautiful websites, Setup different tools.
     I have always been fascinated by computers and programming. I love structure and order and I also stand for quality. <br>I love spending time on fixing little details and optimizing web apps Also, I like working in a team, you'll learn faster and more. As the saying goes: 'two heads are better than one'..<br>
 
 🌱 Bootcamp + Self teaching **_MERN_** & **_PERN_** Stack Developer.<br>
