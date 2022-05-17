@@ -96,20 +96,13 @@ const vedant = {
 
 
 ## Github Stats
-<br>
-
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMaster7)
-
-<br>
-
-----
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster7)
-
-<br>
-<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeMaster7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaster7&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaster7&theme=github_dark)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeMaster7&theme=github_dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeMaster7&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeMaster7&theme=github_dark)
 
 ----
 
