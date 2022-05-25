@@ -1,5 +1,5 @@
 # Hi there, I'm Sam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Developer!;Creating+Beautiful+Websites;Passionate+Learner">
@@ -84,7 +84,6 @@ const vedant = {
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
@@ -94,13 +93,10 @@ const vedant = {
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 
-![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment: 
@@ -108,7 +104,7 @@ const vedant = {
 
 ### Areas of Interest:
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![React Native](https://img.shields.io/badge/-React_native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
 <br>
