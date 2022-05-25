@@ -12,7 +12,6 @@
 <a href="mailto:sammybonfanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <!-- <a href="https://dev.to/envoy_"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
 
-<br><br>
 ----
 
 ## I'm a Bootcamp Graduate & Self taught Developer!!
