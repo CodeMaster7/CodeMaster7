@@ -126,7 +126,7 @@ const vedant = {
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaster7&theme=github_dark)
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=CodeMaster7&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeMaster7&theme=github_dark)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeMaster7&theme=dracula) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CodeMaster7&theme=react-dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeMaster7&theme=github_dark)
 
 ----
