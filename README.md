@@ -49,8 +49,8 @@ const vedant = {
 <br>
 
 
-<!-- ## My Skill Set -->
-<!-- <table><tr><td valign="top" width="33%">
+## My Skill Set
+<table><tr><td valign="top" width="33%">
 
 ### Frontend
 <div align="center">
@@ -78,7 +78,7 @@ const vedant = {
 <img style="margin: 10px" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" alt="Linux" height="50" />
 </div>
 
-</td></tr></table> -->
+</td></tr></table>
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
