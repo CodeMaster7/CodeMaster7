@@ -1,5 +1,7 @@
 # Hi there, I'm Sam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<p align="center">
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Developer!;Creating+Beautiful+Websites;Passionate+Learner">
@@ -79,6 +81,7 @@ const vedant = {
 </div>
 
 </td></tr></table>
+
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -107,7 +110,6 @@ const vedant = {
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-<br>
 <br>
 
 ----
