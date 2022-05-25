@@ -23,7 +23,7 @@
             - Contribute more to Open Source projects
             - learn as much as I can about ***React, javascript***
 - ⚡ Fun fact: I love to play games - Go fishing - Snowboarding - Travel
-<br>
+
 ----
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
